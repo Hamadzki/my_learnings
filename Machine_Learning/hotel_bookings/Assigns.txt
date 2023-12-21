@@ -1,0 +1,24 @@
+~first module~
+assign
+1.where do guest come from           ans. we need valid booking for country wise data 
+2.how much guest pay for a night     ans. price distribution of room (type of room)
+3.how does the price per night vary over year  ans. need two dataframe (arrival date mon , adr) (resort , city)
+4.which are most busy month or in which month guest are high ans.arrival of guest in that mon (res , city)
+5. how long people do stay at a hotel(home work)
+
+6.select imppertant feature using corelationfor machine learning and how to execute column
+7.how to extract drived features from data (split times)
+8.how to handle categorical data   ()
+9.how to handle outliers          (make a function of np.log1p())
+10.applying technique of feature importance ()
+11.applying machine algorithms
+12.cross validate your model
+
+13.multiple algo on data
+
+
+
+
+
+~second module~
+1.perform data pre-processing and prepare your data for analysis and modeling purpose 
